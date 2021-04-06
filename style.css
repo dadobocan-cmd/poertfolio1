@@ -1,0 +1,96 @@
+
+body{
+                background-image:url('https://cdn.wallpapersafari.com/15/17/TCyBmw.gif'); background-repeat:repeat;;
+             
+            }
+h2, ul, ol, h1, a,{
+                    color:white;
+                }
+ .center{
+display: block;
+margin-left: auto;
+margin-right: auto;
+                             width: 50%;
+
+                    }
+                      
+                                                                                                            
+                                                                                                                
+ #img {
+  border-radius: 50%;
+  height:500px;
+  width:500px;
+}
+  .caption{
+ visibility:hidden;
+}
+ span{
+color:LightBlue;
+text-align:center;
+font-size:45px;
+}
+.info{
+text-align:left;
+}
+                                                                                                                                             
+}
+                                                                                                                                                        
+ button{
+background-color:#3399ff;
+ color:white;
+ border:none;
+  padding: 15px 35px;
+border-radius:5px;
+margin:10px;
+font-size:15px;
+ outline:none;
+ text-align:center;
+                                                                                                                                                                                                        `               
+ }
+                                                                                                                                                                
+.carousel-inner{
+   width:100px;
+ height:100px;
+ }
+                                                                                                                                                                    
+.accordion-bgcl{
+  background-color:white;
+}
+ p{
+color:white;
+}
+.h1color{
+ color:white;
+                                                                                                                                                                        
+}
+.center2{
+text-align:center;
+}
+ .titlesize{
+size:50px;
+ }
+.h1size{
+ size:200px
+ }
+.pcolor{
+ color:white;
+ }
+.divcolor{
+background-color:#b3b3b3;
+  }
+.color{
+    color:white
+}
+
+.accordion-bgcl1{
+    background-color:green;
+}
+
+.accordion-bgcl2{
+    background-color:#cc9900;
+}
+.accordion-bgcl3{
+    background-color:#ff471a;
+}
+
+
